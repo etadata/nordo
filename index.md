@@ -1,4 +1,14 @@
 
 ## the road to  OSCE
 
-## hhhhhhhh
+
+## Crypto
+
+
+## Kernel Dev & Exploit
+
+
+## Create your own Rootkit
+
+
+
