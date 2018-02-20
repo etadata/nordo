@@ -23,7 +23,7 @@
 
 
 #### Symetric Algorithm
-* BlowFush
+* BlowFish
 * AES
 * DES
 * 3DES
