@@ -23,7 +23,7 @@
 ## Create your Own Ransomware
 
 
-## Useful Links & Resources
+## [Useful Links & Resources ](https://etadata.github.io/nordo/useful_links)
 
 
 
