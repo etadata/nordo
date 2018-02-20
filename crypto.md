@@ -57,4 +57,4 @@
 
 ### Example of ecnryption protocols
 
-`$`   how  HTPPS works
+`$`   how  HTTPS works
