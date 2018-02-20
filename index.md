@@ -25,7 +25,7 @@
 
 ## [Useful Links & Resources ](https://etadata.github.io/nordo/useful_links)
 
-## [malware samples resources]
+## [malware samples resources](https://etadata.github.io/nordo/malware_sample)
 
 
 
