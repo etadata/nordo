@@ -44,8 +44,15 @@
 * BLAK1
 * BLAK2
 
+####  Digital Signatures
+* El Gamal Signature
+* Hashing and Signing
+* Birthday attacks on signatures
 
 #### Elliptic Curve Cryptography
+
+
+#### SSL/TLS Cryptography
 
 
 ### Example of ecnryption protocols
