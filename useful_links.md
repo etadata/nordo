@@ -1,8 +1,8 @@
 
-## Spam check
+## Blacklist & Spam Checking Resources
 
 
-## malware check online
+## malware Analyzing  online
 
 
 ## Analyzing traffic online
