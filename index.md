@@ -2,7 +2,7 @@
 ## the road to  OSCE
 
 
-## Crypto
+## [Crypto](https://etadata.github.io/nordo/crypto)
 
 
 ## Kernel Dev & Exploit
