@@ -41,8 +41,8 @@
 * SHA1
 * SHA2
 * SHA3
-* BLACK1
-* BLACK2
+* BLAK1
+* BLAK2
 
 
 #### Curve ELeptic Algorithm
