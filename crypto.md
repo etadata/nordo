@@ -45,7 +45,7 @@
 * BLAK2
 
 
-#### Curve ELeptic Algorithm
+#### Elliptic Curve Cryptography
 
 
 ### Example of ecnryption protocols
