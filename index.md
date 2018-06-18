@@ -1,7 +1,4 @@
 
-## the road to  OSCE
-
-
 ## [Crypto](https://etadata.github.io/nordo/crypto)
 
 
